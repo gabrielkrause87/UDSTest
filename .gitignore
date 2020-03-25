@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/UDS.Api/bin/Debug/netcoreapp2.2
+/UDS.Api/obj
+/UDS.Business/bin/Debug/netcoreapp2.2
+/UDS.Business/obj
+/UDS.Data/bin/Debug/netcoreapp2.2
+/UDS.Data/obj

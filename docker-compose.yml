@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  uds.api:
+    image: ${DOCKER_REGISTRY-}udsapi
+    build:
+      context: .
+      dockerfile: UDS.Api/Dockerfile
